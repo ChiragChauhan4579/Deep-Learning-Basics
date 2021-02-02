@@ -55,30 +55,3 @@ res = grid.fit(X_train,y_train)
 
 best_params = grid.best_params_
 best_scores = grid.best_score_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
